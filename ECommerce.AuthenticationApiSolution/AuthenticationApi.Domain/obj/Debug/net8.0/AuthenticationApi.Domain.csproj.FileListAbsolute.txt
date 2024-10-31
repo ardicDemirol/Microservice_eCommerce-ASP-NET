@@ -1,0 +1,11 @@
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\bin\Debug\net8.0\AuthenticationApi.Domain.deps.json
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\bin\Debug\net8.0\AuthenticationApi.Domain.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\bin\Debug\net8.0\AuthenticationApi.Domain.pdb
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\AuthenticationApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\AuthenticationApi.Domain.AssemblyInfoInputs.cache
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\AuthenticationApi.Domain.AssemblyInfo.cs
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\AuthenticationApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\AuthenticationApi.Domain.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\refint\AuthenticationApi.Domain.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\AuthenticationApi.Domain.pdb
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Domain\obj\Debug\net8.0\ref\AuthenticationApi.Domain.dll

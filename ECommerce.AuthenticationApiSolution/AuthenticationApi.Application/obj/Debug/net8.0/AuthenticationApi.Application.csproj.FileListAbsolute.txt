@@ -1,0 +1,15 @@
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.deps.json
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.pdb
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.AssemblyInfoInputs.cache
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.AssemblyInfo.cs
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\refint\AuthenticationApi.Application.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.pdb
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\ref\AuthenticationApi.Application.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\ECommerce.SharedLibrary.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\ECommerce.SharedLibrary.pdb
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.AssemblyReference.cache
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\Authenti.F26204DC.Up2Date

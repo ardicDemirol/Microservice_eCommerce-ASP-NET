@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OrderApi.Application",
+    "\\OrderApi.Application\\DTOs",
+    "\\OrderApi.Application\\Services",
+    "\\OrderApi.Presentation"
+  ],
+  "SelectedNode": "\\ECommerce.OrderApiSolution.sln",
+  "PreviewInSolutionExplorer": false
+}

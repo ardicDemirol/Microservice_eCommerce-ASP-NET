@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.AuthenticationApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75925EFD-8B76-4897-A083-05A12E646F46}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\ecommerce.authenticationapisolution\\authenticationapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75925EFD-8B76-4897-A083-05A12E646F46}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75925EFD-8B76-4897-A083-05A12E646F46}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\ecommerce.authenticationapisolution\\authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75925EFD-8B76-4897-A083-05A12E646F46}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75925EFD-8B76-4897-A083-05A12E646F46}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\ecommerce.authenticationapisolution\\authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75925EFD-8B76-4897-A083-05A12E646F46}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 788,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1358152725:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:579856920:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T14:38:55.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:07:55.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T13:06:54.392Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 609,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

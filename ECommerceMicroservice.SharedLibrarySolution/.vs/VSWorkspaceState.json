@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ECommerce.SharedLibrary",
+    "\\ECommerce.SharedLibrary\\DependencyInjection"
+  ],
+  "SelectedNode": "\\ECommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+  "PreviewInSolutionExplorer": false
+}
