@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\",
+  "WorkspaceRootPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0489F95F-E6DC-49AD-A224-FBC2670398C6}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\ecommerce.apigatewaysolution\\apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0489F95F-E6DC-49AD-A224-FBC2670398C6}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\microservice\\ecommerce.apigatewaysolution\\apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0489F95F-E6DC-49AD-A224-FBC2670398C6}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0489F95F-E6DC-49AD-A224-FBC2670398C6}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\ecommerce.apigatewaysolution\\apigateway.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0489F95F-E6DC-49AD-A224-FBC2670398C6}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\microservice\\ecommerce.apigatewaysolution\\apigateway.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0489F95F-E6DC-49AD-A224-FBC2670398C6}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0489F95F-E6DC-49AD-A224-FBC2670398C6}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\ecommerce.apigatewaysolution\\apigateway.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0489F95F-E6DC-49AD-A224-FBC2670398C6}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\microservice\\ecommerce.apigatewaysolution\\apigateway.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0489F95F-E6DC-49AD-A224-FBC2670398C6}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0489F95F-E6DC-49AD-A224-FBC2670398C6}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\ecommerce.apigatewaysolution\\apigateway.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0489F95F-E6DC-49AD-A224-FBC2670398C6}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\microservice\\ecommerce.apigatewaysolution\\apigateway.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0489F95F-E6DC-49AD-A224-FBC2670398C6}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "ApiGateway.Presentation\\appsettings.json",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\appsettings.json",
               "RelativeToolTip": "ApiGateway.Presentation\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "ApiGateway.Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Program.cs",
               "RelativeToolTip": "ApiGateway.Presentation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,11 +72,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ocelot.json",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ocelot.json",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ocelot.json",
               "RelativeDocumentMoniker": "ApiGateway.Presentation\\ocelot.json",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ocelot.json",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ocelot.json",
               "RelativeToolTip": "ApiGateway.Presentation\\ocelot.json",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAuwKcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-23T11:52:14.366Z",
               "EditorCaption": ""
@@ -85,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ApiGateway.Presentation\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Properties\\launchSettings.json",
               "RelativeToolTip": "ApiGateway.Presentation\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

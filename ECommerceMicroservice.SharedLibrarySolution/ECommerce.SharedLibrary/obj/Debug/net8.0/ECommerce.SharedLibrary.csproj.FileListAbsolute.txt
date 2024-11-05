@@ -34,3 +34,16 @@ C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerceMicroservice
 C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\refint\ECommerce.SharedLibrary.dll
 C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.pdb
 C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\ref\ECommerce.SharedLibrary.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\bin\Debug\net8.0\ECommerce.SharedLibrary.deps.json
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\bin\Debug\net8.0\ECommerce.SharedLibrary.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\bin\Debug\net8.0\ECommerce.SharedLibrary.pdb
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.AssemblyInfo.cs
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.sourcelink.json
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\refint\ECommerce.SharedLibrary.dll
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.pdb
+C:\Users\demro\Desktop\Coding\BackEndProjects\Microservice\Microservice\ECommerceMicroservice.SharedLibrarySolution\ECommerce.SharedLibrary\obj\Debug\net8.0\ref\ECommerce.SharedLibrary.dll

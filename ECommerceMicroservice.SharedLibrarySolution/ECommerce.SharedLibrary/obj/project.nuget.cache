@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vc7NpLKTbpk=",
+  "dgSpecHash": "YhGSePHSd08=",
   "success": true,
-  "projectFilePath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj",
+  "projectFilePath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\demro\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\demro\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

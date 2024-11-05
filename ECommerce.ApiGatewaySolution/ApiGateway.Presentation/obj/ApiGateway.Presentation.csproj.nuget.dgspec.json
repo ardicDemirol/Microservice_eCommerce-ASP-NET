@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ApiGateway.Presentation.csproj": {}
+    "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ApiGateway.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ApiGateway.Presentation.csproj": {
+    "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ApiGateway.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ApiGateway.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ApiGateway.Presentation.csproj",
         "projectName": "ApiGateway.Presentation",
-        "projectPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ApiGateway.Presentation.csproj",
+        "projectPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ApiGateway.Presentation.csproj",
         "packagesPath": "C:\\Users\\demro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\obj\\",
+        "outputPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\demro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj": {
-                "projectPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj"
+              "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj": {
+                "projectPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj": {
+    "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj",
         "projectName": "ECommerce.SharedLibrary",
-        "projectPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj",
+        "projectPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj",
         "packagesPath": "C:\\Users\\demro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\obj\\",
+        "outputPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerceMicroservice.SharedLibrarySolution\\ECommerce.SharedLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\demro\\AppData\\Roaming\\NuGet\\NuGet.Config",

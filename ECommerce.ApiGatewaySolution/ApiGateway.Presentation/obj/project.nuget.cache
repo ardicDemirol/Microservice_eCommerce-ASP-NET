@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fAzLLq+86ZY=",
+  "dgSpecHash": "EUA7W7hsfVU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ApiGateway.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ApiGateway.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\demro\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\demro\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
