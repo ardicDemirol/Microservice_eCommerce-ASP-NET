@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ProductApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D18884C9-7B24-45CA-B97B-8B04EBE736DA}|UnitTest.ProductApi\\UnitTest.ProductApi.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\microservice\\ecommerce.productapisolution\\unittest.productapi\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18884C9-7B24-45CA-B97B-8B04EBE736DA}|UnitTest.ProductApi\\UnitTest.ProductApi.csproj|solutionrelative:unittest.productapi\\controllers\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18884C9-7B24-45CA-B97B-8B04EBE736DA}|UnitTest.ProductApi\\UnitTest.ProductApi.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\microservice\\ecommerce.productapisolution\\unittest.productapi\\controllers\\repositories\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18884C9-7B24-45CA-B97B-8B04EBE736DA}|UnitTest.ProductApi\\UnitTest.ProductApi.csproj|solutionrelative:unittest.productapi\\controllers\\repositories\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560CDFA6-5C34-43CC-91C6-68F4EC0DF45D}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|c:\\users\\demro\\desktop\\coding\\backendprojects\\microservice\\microservice\\ecommerce.productapisolution\\productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560CDFA6-5C34-43CC-91C6-68F4EC0DF45D}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 788,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ProductApiSolution\\UnitTest.ProductApi\\Controllers\\ProductControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTest.ProductApi\\Controllers\\ProductControllerTest.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ProductApiSolution\\UnitTest.ProductApi\\Controllers\\ProductControllerTest.cs",
+              "RelativeToolTip": "UnitTest.ProductApi\\Controllers\\ProductControllerTest.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAIwBUBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:05:48.956Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1358152725:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:579856920:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ProductApiSolution\\UnitTest.ProductApi\\Controllers\\Repositories\\ProductRepositoryTest.cs",
+              "RelativeDocumentMoniker": "UnitTest.ProductApi\\Controllers\\Repositories\\ProductRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ProductApiSolution\\UnitTest.ProductApi\\Controllers\\Repositories\\ProductRepositoryTest.cs",
+              "RelativeToolTip": "UnitTest.ProductApi\\Controllers\\Repositories\\ProductRepositoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:06:38.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\demro\\Desktop\\Coding\\BackEndProjects\\Microservice\\Microservice\\ECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:08:42.285Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 609,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
